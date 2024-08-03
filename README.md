@@ -1,27 +1,9 @@
-Hi there! 👋 I’m Shyam Sundar Biswas
-About Me
-I’m a passionate Android developer with a love for clean code, elegant UI/UX, and impactful mobile applications. My journey in the world of Android began with tinkering around with Java and XML layouts, and it has evolved into a full-fledged career. I thrive on turning ideas into functional, user-friendly apps that make a difference.
+<h1 align="center">Hi 👋, I'm Shyam Sundar Biswas</h1>
+<h3 align="center">A passionate Android developer .....</h3>
 
-What I Do
-📱 Android app development using Kotlin and Java
-🎨 UI/UX design: Crafting beautiful interfaces that users love
-🤖 Integrating APIs and third-party libraries
-🧪 Testing and debugging: Ensuring robust and bug-free apps
-🚀 Continuous learning: Staying up-to-date with Android trends and best practices
-Projects
-Here are some of the cool projects I’ve worked on:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Plantify: An Android app that identifies plants and flowers using machine learning. Leveraged Firebase ML Kit and integrated Germini AI for additional plant data.
-WeatherWise: A weather app with a minimalist design, real-time updates, and location-based forecasts.
-TaskMaster: A task management app with intuitive drag-and-drop features.
-Connect with Me
-🌐 Portfolio
-📧 Email: shyam@example.com
-🐦 Twitter: @shyamdev
-💼 LinkedIn: Shyam Sundar Biswas
-Feel free to explore my repositories and drop me a message—I’d love to collaborate or chat about Android development! 🚀
-
-<!---
-shyam21biswas/shyam21biswas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>

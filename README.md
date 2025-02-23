@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋 Hi, I'm Shyam Sundar Biswas!</h1>
 
-Welcome to my GitHub profile! I'm a passionate Android developer with a strong foundation in Electronics and Communication Engineering, complemented by a minor in Computer Science. My journey in tech is driven by a love for mobile development, machine learning, and UI/UX design.
+Welcome to my GitHub profile! I'm a passionate Android developer . My journey in tech is driven by a love for mobile development, machine learning, and UI/UX design.
 
 ## 🔧 My Skillset
 

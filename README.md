@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋 Hi, I'm Shyam Sundar Biswas!</h1>
+<h1 align="center"> 👋 Hi, I'm Shyam Sundar Biswas!</h1>
 
 Welcome to my GitHub profile! I'm a passionate Android developer . My journey in tech is driven by a love for mobile development, machine learning, and UI/UX design.
 
@@ -32,7 +32,6 @@ I specialize in building robust and user-friendly Android applications. My proje
 
 - *Google Map Hackathon:* Advanced to the prototyping stage
 - *World Robotic Championship:* Ranked among the Top 16 teams
-- *LeetCode:* Solved 90+ problems
 - *Udemy Certification:* Certified in Android Development
 
 ## 📫 Let's Connect

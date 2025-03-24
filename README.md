@@ -3,46 +3,34 @@
 
 Welcome to my GitHub profile! I'm a passionate Android developer . My journey in tech is driven by a love for mobile development, machine learning, and UI/UX design.
 
-## 🔧 My Skillset
 
-- *Languages:* C, C++, Python, Kotlin, SQL
-- *Frameworks & Tools:* Android Studio, Jetpack Compose, Firebase, Retrofit, Room Database, Google Map API, MVVM Architecture
-- *Design:* Material Design, Figma
-- *Developer Tools:* Git, VS Code, Google Colab
 
 ## 🚀 What I Do
 
 I specialize in building robust and user-friendly Android applications. My projects often combine modern UI/UX principles with advanced functionalities like real-time data processing and AI integration.
 
-## 🌱 Featured Projects
+]
+# 💫 About Me:
+🌱 I’m currently learning  Android Development <br>
 
-### [🌿 Plant Flower Recognition App](https://github.com/shyam21biswas/Plant-Detection-App-Germini)
-- *Technologies:* Kotlin, Jetpack Compose, Firebase ML Kit, Germini AI
-- *Description:* An Android app designed to identify plants and flowers in real-time using Firebase ML Kit. It also integrates Germini AI for enhanced information on plant species.
 
-### [👩‍🌾 Farmer App](https://github.com/shyam21biswas/FARMER-APP)
-- *Technologies:* Kotlin, Jetpack Compose, Retrofit, Firebase
-- *Description:* A mobile app aimed at empowering farmers by providing easy access to government schemes and loan policies. It features a responsive UI and real-time updates to enhance user experience.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shyam-sundar-biswas-8b131b267) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shyamsundarbiswas21@gmail.com) 
 
-### [🎵 Music App UI](https://github.com/shyam21biswas/MUSIC-UI-JETPACK-COMPOSE)
-- *Technologies:* Kotlin, Jetpack Compose, Room Database
-- *Description:* A sleek and modern music app UI that offers smooth navigation and an intuitive user experience. It leverages Jetpack Compose for efficient UI management.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shyam21biswas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shyam21biswas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shyam21biswas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 Achievements
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- *Google Map Hackathon:* Advanced to the prototyping stage
-- *World Robotic Championship:* Ranked among the Top 16 teams
-- *Udemy Certification:* Certified in Android Development
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shyam21biswas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 📫 Let's Connect
+---
+[![](https://visitcount.itsvg.in/api?id=shyam21biswas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- *LinkedIn:* [Shyam Sundar Biswas](https://www.linkedin.com/in/shyam-sundar-biswas-8b131b267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- *LeetCode:* [SHYAM_21](https://leetcode.com/u/SHYAM_21/)
-
-I'm always excited to collaborate on innovative projects or discuss the latest trends in Android development. Feel free to explore my repositories and reach out!
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

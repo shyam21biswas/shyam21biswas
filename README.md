@@ -32,5 +32,7 @@ I specialize in building robust and user-friendly Android applications. My proje
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shyam21biswas&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shyam21biswas&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

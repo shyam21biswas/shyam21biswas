@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shyam Sundar Biswas 👋</h1>
-<h3 align="center">Android Developer • Backend Engineer • Kotlin • Jetpack Compose • Firebase • C++</h3>
+<h3 align="center">Android Developer • C++ Developer • Backend Engineer • Kotlin • Jetpack Compose • Firebase • Linux </h3>
 
 <p align="center">
   Passionate about building modern Android applications and backend systems with clean architecture, strong performance, and real-world functionality.
